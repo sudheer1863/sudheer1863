@@ -9,7 +9,7 @@ Machine learning enthusiast skilled in deep learning, NLP and Data analysis with
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pvsudheer180603@gmail.com](mailto:pvsudheer180603@gmail.com)
-* 🚀  I'm currently working on [AADHYA](http://https://github.com/sudheer1863/AADHYA)
+* 🚀  I'm currently working on [AADHYA](https://github.com/sudheer1863/AADHYA)
 * 🧠  I'm learning Generatuve AI
 * 🤝  I'm open to collaborating on Generative AI Applications and Latest technologies
 * ⚡  I value quality over quantity I'm selective about the company I keep.
