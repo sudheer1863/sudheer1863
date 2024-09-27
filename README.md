@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sudheer Paruchuri</h1>
-<h3 align="center">Machine learning enthusiast skilled in deep learning, NLP, and data analysis, with a passion for generative AI.</h3>
+<h3 align="center">Machine learning enthusiast skilled in deep learning, NLP and Data analysis with a passion for Generative AI.</h3>
 <img align = "right" alt="coding" width="400" src = "https://cdn.prod.website-files.com/664299cb0468ba64ee2e4aef/66429a59bbe884f35a3c1f23_642343bebead54bedcb934a0_1668426266020.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer1863&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer1863" /> </p>
 
