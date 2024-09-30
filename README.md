@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venkata Sudheer Paruchuri
 =================================================================================================================================================
 
-Machine Learning Engineer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B74EF7&center=true&vCenter=true&width=435&lines=I+am++a+Gen AI+Enthusiast;I+am++a+AI+Engineer;I+am+a+Machine+Learning+Engineer" alt="Typing SVG" /></a>
 -------------------------
 
 Machine learning enthusiast skilled in deep learning, NLP and Data analysis with a passion for Generative AI.
