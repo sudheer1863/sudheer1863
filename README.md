@@ -35,12 +35,6 @@ My work spans **healthcare AI, blockchain-based solutions, and advanced data ana
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/sudheer1863"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer1863&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" /></a>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
