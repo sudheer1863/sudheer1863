@@ -3,8 +3,6 @@ Hi there! 👋 I'm Venkata Sudheer Paruchuri
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Machine+Learning+Engineer;Generative+AI+Engineer;AI+Researcher;Data+Scientist;Data+Engineer;Full-Stack+Developer;Cloud+Developer+(AWS%2FGCP);AI+Solutions+Architect" alt="Typing SVG" /></a>
 
-<img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/664299cb0468ba64ee2e4aef/66429a59bbe884f35a3c1f23_642343bebead54bedcb934a0_1668426266020.gif">
-
 I am a results-driven engineer with expertise in **Generative AI, Machine Learning, Deep Learning, NLP, and Full-Stack Development**.  
 I have hands-on experience building **AI-powered applications**, designing **scalable data pipelines**, and deploying **end-to-end intelligent systems**.  
 My work spans **healthcare AI, blockchain-based solutions, and advanced data analytics**—driven by a passion for innovation and problem-solving.
