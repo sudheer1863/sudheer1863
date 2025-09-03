@@ -21,7 +21,7 @@ My work spans **healthcare AI, blockchain-based solutions, and advanced data ana
 **Languages:** Python, SQL  
 **AI/ML:** Generative AI, Deep Learning, NLP, Predictive Analytics  
 **Frameworks/Tools:** Flask, PyTorch, Power BI, Tableau, OpenAI API, AWS, GCP, Ganache  
-**Web Dev:** HTML, CSS, React.js, Full-Stack Development  
+**Web Dev:** HTML, CSS, React.js, Flask, FastAPI
 **Databases:** MySQL, SQLite  
 **Platforms:** Linux, VS Code, Jupyter Notebooks  
 
